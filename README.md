@@ -3,8 +3,8 @@ Explore the vanishing and exploding gradients problems, tackle complex tasks whe
 
 ## Contents
 * The Vanishing / Exploding Gradients Problems
-  * Glorot and He Initialization
-  * Nonsaturating Activation Functions
+  * Weight Initialization
+  * Activation Functions
   * Batch Normalization
   * Gradient Clipping
 * Reusing Pretraining Layers
