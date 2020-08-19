@@ -9,8 +9,6 @@ Explore the vanishing and exploding gradients problems, tackle complex tasks whe
   * Gradient Clipping
 * Reusing Pretraining Layers
   * Transfer learning with Keras
-  * Unsupervised Pretraining
-  * Pretraining on an Auxilary Task
 * Faster Optimizers
   * Momentum optimization
   * AdaGrad
